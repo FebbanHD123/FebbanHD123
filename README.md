@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [SpigotFactoryReloaded](https://github.com/FebbanHD123/SpigotFactoryReloaded)
+- ⚡ Languages: Java, Kotlin, Go, SQL 
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=FebbanHD123&show_icons=true&theme=radical" /></p>
 
