@@ -1,5 +1,3 @@
-### Hi there 👋
-
 - 🔭 I’m currently working on [SpigotFactoryReloaded](https://github.com/FebbanHD123/SpigotFactoryReloaded)
 - ⚡ Languages: Java, Kotlin, Go, SQL 
 
